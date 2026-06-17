@@ -112,5 +112,3 @@ relationship type, age, executive/managerial occupation
 
 **Isuri Nawodya**  
 Master of Professional Studies in Analytics, Northeastern University Vancouver  
-[LinkedIn](https://linkedin.com/in/isuri-nawodya) |
-[GitHub](https://github.com/Ishu201)
